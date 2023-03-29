@@ -1,0 +1,25 @@
+# ninja log v5
+10	104	7017414847073810	CMakeFiles/Arreglos.dir/funciones.cpp.obj	8aa7ba7dc76ec074
+3	429	7017530443646977	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+429	553	7017530444856498	Arreglos.exe	62241e563aff2f32
+3	400	7017529528846600	CMakeFiles/Arreglos.dir/main.cpp.obj	30f1ca91f2d98520
+3	447	7017531073029269	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+448	572	7017531074268641	Arreglos.exe	62241e563aff2f32
+3	432	7017531632692830	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+432	559	7017531633928064	Arreglos.exe	62241e563aff2f32
+3	433	7017532341035561	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+434	556	7017532342233179	Arreglos.exe	62241e563aff2f32
+3	442	7017533336219371	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+443	565	7017533337407360	Arreglos.exe	62241e563aff2f32
+3	444	7017533548280407	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+445	568	7017533549479708	Arreglos.exe	62241e563aff2f32
+3	438	7017545813880262	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+438	562	7017545815077046	Arreglos.exe	62241e563aff2f32
+4	459	7017551425773757	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+459	600	7017551427141511	Arreglos.exe	62241e563aff2f32
+4	442	7017551985318649	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+443	566	7017551986525413	Arreglos.exe	62241e563aff2f32
+3	520	7017552823612744	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+521	677	7017552825566502	Arreglos.exe	62241e563aff2f32
+4	570	7017581086155418	CMakeFiles/Arreglos.dir/formulas.cpp.obj	c2aaa8885934831e
+571	725	7017581087661389	Arreglos.exe	62241e563aff2f32
