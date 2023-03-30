@@ -3,4 +3,4 @@ project(Arreglos)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Arreglos main.cpp funciones.cpp void.h formulas.cpp)
+add_executable(Arreglos main.cpp void.h formulas.cpp)
